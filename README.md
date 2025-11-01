@@ -41,7 +41,7 @@
 
 <h2>Connect</h2>
 <p align="left">
-  <a href="mailto:mohinhasin999@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" alt="Email" /></a>
+  &#128233; <a href="mailto:mohinhasin999@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" alt="Email" /></a>
   <a href="https://github.com/mohin-io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mohin-hasin-rabbi" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
