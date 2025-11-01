@@ -39,6 +39,23 @@
 </p>
 <p><strong>Also shipping with:</strong> Transformers, Optuna, MLflow, BentoML, Great Expectations, Pandera, Dask, Weights &amp; Biases, TypeScript/Next.js, Go, Rust, and TeX for quantitative research narratives.</p>
 
+<h2>Snapshot</h2>
+<p align="center">
+  <a href="https://github.com/mohin-io?tab=overview">
+    <img src="https://algora.io/og/user/mohin-io" alt="Algora overview for mohin-io" width="880" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=dark" alt="Mohin's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=dark" alt="Top languages used by Mohin" />
+  </a>
+</p>
+<blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
+<hr />
+
 <h2>Connect</h2>
 <p align="left">
   <a href="mailto:mohinhasin999@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2709.svg" width="32" height="32" alt="Email" /></a>
