@@ -41,8 +41,8 @@
 
 <h2>Snapshot</h2>
 <p align="center">
-  <a href="https://github.com/mohin-io?tab=overview">
-    <img src="https://algora.io/og/user/mohin-io" alt="Algora overview for mohin-io" width="880" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="880" />
   </a>
 </p>
 <p align="center">
