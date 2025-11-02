@@ -45,14 +45,20 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="840" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" width="420" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" width="420" />
-  </a>
-</p>
+<table align="center" width="840">
+  <tr>
+    <td align="center" width="420">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" width="420" />
+      </a>
+    </td>
+    <td align="center" width="420">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" width="420" />
+      </a>
+    </td>
+  </tr>
+</table>
 <blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
 <hr />
 
