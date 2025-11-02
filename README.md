@@ -1,5 +1,4 @@
 <div>
-<br class="Apple-interchange-newline" />
 <h1>👋 Welcome</h1>
 <p>I'm <strong>Mohin Hasin Rabbi</strong> — a <strong>Quantitative AI Engineer</strong> based in <strong>Portugal</strong>, currently completing a <strong>Master's in Computational Statistics and Data Analysis</strong> at the <strong>University of Porto</strong>. I build end-to-end intelligent systems that blend algorithmic finance, machine learning, and agentic automation.</p>
 <p>As part of the <a href="https://github.com/flowsynx" target="_blank" rel="noreferrer noopener">FlowSynx</a> open-source collective, I design multi-agent infrastructure and production-ready AI tooling for capital markets, autonomous analytics, and edge deployments.</p>
