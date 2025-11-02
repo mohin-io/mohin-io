@@ -42,15 +42,15 @@
 <h2>Snapshot</h2>
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="880" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="840" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=dark" alt="Mohin's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=dark" alt="Mohin's GitHub stats" width="420" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=dark" alt="Top languages used by Mohin" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=dark" alt="Top languages used by Mohin" width="420" />
   </a>
 </p>
 <blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
