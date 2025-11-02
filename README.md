@@ -40,39 +40,19 @@
 <p><strong>Also shipping with:</strong> Transformers, Optuna, MLflow, BentoML, Great Expectations, Pandera, Dask, Weights &amp; Biases, TypeScript/Next.js, Go, Rust, and TeX for quantitative research narratives.</p>
 
 <h2>Snapshot</h2>
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for Mohin" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://streak-stats.demolab.com?user=mohin-io&theme=github-dark&hide_border=true" alt="GitHub streak stats for Mohin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohin-io&theme=github_dark" alt="Repositories per language for Mohin" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohin-io&theme=github_dark" alt="Most committed languages for Mohin" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="840" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" />
+  </a>
+</p>
 <blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
 <hr />
 
