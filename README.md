@@ -47,10 +47,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" width="420" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" width="420" />
   </a>
 </p>
 <blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
