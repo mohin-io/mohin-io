@@ -1,12 +1,6 @@
 <h1>👋 Welcome</h1>
 <p>I'm <strong>Mohin Hasin Rabbi</strong> — a <strong>Data Analyst Intern</strong> at <a href="https://www.smartex.ai/" target="_blank" rel="noreferrer noopener">Smartex.ai</a> in Porto, Portugal, currently completing a <strong>Master's in Computational Statistics and Data Analysis</strong> at the <strong>University of Porto</strong>. Becoming a <strong>Quantitative AI Engineer</strong> is my next career goal, and I'm deeply passionate about quant/data science for transformative fintech experiences. I build end-to-end intelligent systems that blend algorithmic finance, machine learning, and agentic automation.</p>
 <p><strong>Data Analyst Intern | <a href="https://www.smartex.ai/" target="_blank" rel="noreferrer noopener">Smartex.ai</a> | Porto, Portugal</strong></p>
-<ul>
-  <li>Analyzed 1TB+ of industrial sensor and image data to pinpoint root causes of production defects, boosting AI training data quality by 25% and saving 15 hours/week of manual cleaning.</li>
-  <li>Developed 92%-accurate time-series forecasting for knitting/dyeing anomalies, unlocking a 15% reduction in unplanned downtime and preventing costly waste on pilot lines.</li>
-  <li>Automated Life Cycle Assessment (LCA) models that track 5+ sustainability metrics, creating evidence packages that helped close two new enterprise contracts.</li>
-  <li>Productized analytics into reproducible pipelines (FastAPI + Streamlit + MLflow) that mirror the open-source patterns across this GitHub profile, giving stakeholders decision-ready dashboards within minutes.</li>
-</ul>
 <p>As part of the <a href="https://github.com/flowsynx" target="_blank" rel="noreferrer noopener">FlowSynx</a> open-source collective, I design multi-agent infrastructure and production-ready AI tooling for capital markets, autonomous analytics, and edge deployments.</p>
 
 <h2>What I'm Building</h2>
