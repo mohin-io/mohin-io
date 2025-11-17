@@ -37,29 +37,6 @@
 </p>
 <p><strong>Also shipping with:</strong> Transformers, Optuna, MLflow, BentoML, Great Expectations, Pandera, Dask, Weights &amp; Biases, TypeScript/Next.js, Go, Rust, and TeX for quantitative research narratives.</p>
 
-<h2>Snapshot</h2>
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-io&theme=github_dark" alt="GitHub profile summary for Mohin" width="840" />
-  </a>
-</p>
-<table align="center" width="840">
-  <tr>
-    <td align="center" width="420">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohin-io&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub stats for Mohin" height="200" width="420" />
-      </a>
-    </td>
-    <td align="center" width="420">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin-io&layout=compact&langs_count=10&theme=github_dark&hide_border=false" alt="Top languages used by Mohin" height="200" width="420" />
-      </a>
-    </td>
-  </tr>
-</table>
-<blockquote><em>Metrics are directional only and reflect public activity.</em></blockquote>
-<hr />
-
 <h2>Connect</h2>
 <p align="left">
   <a href="mailto:mohinhasin999@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2709.svg" width="32" height="32" alt="Email" /></a>
